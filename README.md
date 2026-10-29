@@ -5,7 +5,7 @@ reach by holding ◀ ▶ for 3 s). Each calibration is a short wizard with illus
 sensor readings and a **Save to robot** step that stores the values in the robot's flash,
 exactly where the on-robot menu stores them.
 
-**▶ App: <https://francescomondada.github.io/thymio3-calibration/>**
+**▶ App: <https://mobsya.github.io/thymio3-calibration/>**
 
 Open it in **Google Chrome or Microsoft Edge** (Web Bluetooth is not available in Firefox or Safari; the
 app shows a prominent warning there), switch the robot on and click *Connect robot*. The interface is
@@ -151,7 +151,7 @@ Please report anything that behaves differently on another robot or firmware ver
 ## Run locally
 
 ```bash
-git clone https://github.com/FrancescoMondada/thymio3-calibration
+git clone https://github.com/Mobsya/thymio3-calibration
 cd thymio3-calibration
 npm install
 npm run dev          # http://localhost:5174
