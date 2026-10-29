@@ -39,7 +39,7 @@ const fr = {
   'log.ping': 'Tester la communication',
   'log.pingHint': 'Envoie un script minimal (deux lignes affichées) pour vérifier l’aller-retour Bluetooth',
 
-  'home.intro': 'Choisissez une calibration. Chaque assistant reprend la procédure des menus du robot (appui long sur ◀ ▶ pendant 3 s), l’illustre, puis enregistre les valeurs dans la mémoire du robot exactement comme le fait le firmware.',
+  'home.intro': 'Choisissez une calibration. Chaque assistant reproduit, dans une interface web, la procédure qui est autrement implémentée dans les menus de configuration du robot (appui long sur ◀ ▶ pendant 3 s). Chaque page web de l’assistant illustre une calibration précise, puis enregistre les valeurs dans la mémoire du robot exactement comme le fait le firmware.',
   'home.connectFirst': 'Connectez le robot pour commencer.',
   'home.stored': 'Valeurs enregistrées dans le robot',
   'home.storedHint': 'Ce qui est enregistré dans la mémoire du robot. Une valeur en cours d’essai n’y apparaît qu’une fois enregistrée.',
@@ -308,7 +308,7 @@ const en = {
   'log.ping': 'Test the communication',
   'log.pingHint': 'Sends a minimal script (prints two lines) to check the Bluetooth round trip',
 
-  'home.intro': 'Pick a calibration. Each wizard follows the procedure of the robot’s own menus (hold ◀ ▶ for 3 s), illustrates it, then stores the values in the robot’s memory exactly as the firmware does.',
+  'home.intro': 'Pick a calibration. Each wizard reproduces with a web interface the procedure that is otherwise implemented in the robot’s own configuration menus (hold ◀ ▶ for 3 s). Each web page of the wizard illustrates one specific calibration, then stores the values in the robot’s memory exactly as the firmware does.',
   'home.connectFirst': 'Connect the robot to begin.',
   'home.stored': 'Values saved in the robot',
   'home.storedHint': 'What is saved in the robot’s memory. A value being tested only appears here once it is saved.',

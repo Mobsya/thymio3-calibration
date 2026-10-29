@@ -29,7 +29,7 @@ export default {
   'log.ping': 'Testa la comunicazione',
   'log.pingHint': 'Invia uno script minimo (stampa due righe) per verificare l’andata e ritorno Bluetooth',
 
-  'home.intro': 'Scegli una calibrazione. Ogni procedura guidata segue quella dei menu del robot (tieni premuto ◀ ▶ per 3 s), la illustra e poi salva i valori nella memoria del robot esattamente come fa il firmware.',
+  'home.intro': 'Scegli una calibrazione. Ogni procedura guidata riproduce, in un’interfaccia web, la procedura che altrimenti è implementata nei menu di configurazione del robot (tieni premuto ◀ ▶ per 3 s). Ogni pagina web della procedura guidata illustra una calibrazione specifica e poi salva i valori nella memoria del robot esattamente come fa il firmware.',
   'home.connectFirst': 'Collega il robot per iniziare.',
   'home.stored': 'Valori salvati nel robot',
   'home.storedHint': 'Ciò che è salvato nella memoria del robot. Un valore in prova compare qui solo dopo essere stato salvato.',

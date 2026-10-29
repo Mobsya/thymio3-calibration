@@ -29,7 +29,7 @@ export default {
   'log.ping': 'Kommunikation testen',
   'log.pingHint': 'Sendet ein minimales Skript (gibt zwei Zeilen aus), um die Bluetooth-Verbindung zu prüfen',
 
-  'home.intro': 'Wählen Sie eine Kalibrierung. Jeder Assistent folgt dem Ablauf der Menüs des Roboters (◀ ▶ 3 s gedrückt halten), veranschaulicht ihn und speichert die Werte dann im Speicher des Roboters, genau wie es die Firmware tut.',
+  'home.intro': 'Wählen Sie eine Kalibrierung. Jeder Assistent bildet in einer Weboberfläche den Ablauf nach, der sonst in den Konfigurationsmenüs des Roboters umgesetzt ist (◀ ▶ 3 s gedrückt halten). Jede Webseite des Assistenten veranschaulicht eine bestimmte Kalibrierung und speichert die Werte dann im Speicher des Roboters, genau wie es die Firmware tut.',
   'home.connectFirst': 'Verbinden Sie den Roboter, um zu beginnen.',
   'home.stored': 'Im Roboter gespeicherte Werte',
   'home.storedHint': 'Das, was im Speicher des Roboters gespeichert ist. Ein gerade getesteter Wert erscheint hier erst, wenn er gespeichert ist.',
